@@ -1,16 +1,14 @@
-### Hi there 👋
+# Bem-vindos
 
-<!--
-**tauanfreire/Tauanfreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 meu nome é Tauan Freire!
 
-Here are some ideas to get you started:
+## Sobre Mim
+Sou apaixonado por tecnologia, e estou feliz em compartilhar meu projeto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes Sociais
+Conecte-se comigo nas redes sociais:
+- [Instagram](https://www.instagram.com/tauanfreire.sn)
+- [LinkedIn](www.linkedin.com/in/tauan-freire-b9262b261)
+
+Sinta-se à vontade para explorar o projeto e deixar suas sugestões!
+
