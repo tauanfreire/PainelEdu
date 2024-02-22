@@ -3,8 +3,7 @@
 Olá! 👋 meu nome é Tauan Freire!
 
 ## Sobre Mim
-Sou apaixonado por tecnologia, e estou feliz em compartilhar meu projeto
-
+Estou em formação nesse mundo da programação, confira todos os meus projetos.
 ## Redes Sociais
 Conecte-se comigo nas redes sociais:
 - [Instagram](https://www.instagram.com/tauanfreire.sn)
